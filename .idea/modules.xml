@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BiodataMahasiswa.iml" filepath="$PROJECT_DIR$/BiodataMahasiswa.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crud_sqlite_basic.iml" filepath="$PROJECT_DIR$/crud_sqlite_basic.iml" />
     </modules>
   </component>
 </project>
